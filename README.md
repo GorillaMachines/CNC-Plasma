@@ -1,6 +1,6 @@
 # MultiBoard
 
-![MultiBoard](https://raw.githubusercontent.com/GorillaMachines/MultiBoard/Images/Control Board.png)
+![GorillaMachines](https://raw.githubusercontent.com/GorillaMachines/MultiBoard/Images/Control Board.png)
 
 
 The MultiBoard is a multifunction CNC control board focused around modularity. Based off of the great Smoothieware firmware combined with
