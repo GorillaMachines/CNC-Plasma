@@ -1,9 +1,9 @@
-#MultiBoard
+# MultiBoard
 
 
 
 <p align="center">
-  <b>![multiboard](https://github.com/GorillaMachines/MultiBoard/blob/master/Images/Controlboard.png?raw=true)</b><br>
+  <img src="http://s.4cdn.org/image/title/105.gif">
   </p>
 
 
