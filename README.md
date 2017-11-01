@@ -1,5 +1,3 @@
-
-
 <p align="center">
   <b>MultiBoard</b><br>
   </p>
