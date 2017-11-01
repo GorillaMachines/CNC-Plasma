@@ -1,5 +1,5 @@
 <p align="center">
-  <b>MultiBoard</b><br>
+  <b>#MultiBoard</b><br>
   </p>
 
 ![multiboard](https://github.com/GorillaMachines/MultiBoard/blob/master/Images/Controlboard.png?raw=true)
