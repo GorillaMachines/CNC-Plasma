@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="http://s.4cdn.org/image/title/105.gif">
+  <img src="https://github.com/GorillaMachines/MultiBoard/blob/master/Images/Controlboard.png?raw=true">
   </p>
 
 
